@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "name": "Ayesha",
+      "age": "18",
+      "roll": "111111",
+      "photo": "https://images.hindustantimes.com/img/2022/10/20/1600x900/Shefali-Shah_1666274277217_1666274277364_1666274277364.jpg",
+      "id": 1
+    },
+    {
+      "name": "Ashik",
+      "age": "1500",
+      "roll": "5555554",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7HZwN1nu8DwWVGoqI3Eladssccw2m7iOFNfYfAhm&s",
+      "id": 3
+    },
+    {
+      "name": "Rakib",
+      "age": "18",
+      "roll": "333333",
+      "photo": "https://images.hindustantimes.com/img/2022/10/20/1600x900/Shefali-Shah_1666274277217_1666274277364_1666274277364.jpg",
+      "id": 4
+    },
+    {
+      "name": "Rohan",
+      "age": "23",
+      "roll": "111111",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7HZwN1nu8DwWVGoqI3Eladssccw2m7iOFNfYfAhm&s",
+      "id": 5
+    }
+  ]
+}
